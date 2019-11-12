@@ -1,5 +1,0 @@
-[client]
-database = queenie
-user = queenie
-password = carol123456789
-default-character-set = utf8
